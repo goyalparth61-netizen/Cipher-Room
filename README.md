@@ -388,3 +388,199 @@ npm run dev
 > ### *"The system isn't broken... it's hiding something..."*
 
 ---
+# 🗺 Roadmap
+
+## 🚀 Version 1.0
+- ✅ AI Mission Generator
+- ✅ Interactive Hacker Terminal
+- ✅ Dynamic Puzzle Engine
+- ✅ Inventory System
+- ✅ Smart Hint System
+
+## 🔮 Future Updates
+
+- 🌍 Multiplayer Mode
+- 🎙 Voice Commands
+- 🏆 Leaderboards
+- 📱 Mobile Support
+- 🥽 VR Experience
+- 🤖 Adaptive AI Difficulty
+
+---
+
+# 👨‍💻 Meet the Team
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<img src="assets/logo/parth.png" width="120"/>
+
+## Parth Goyal
+
+**Project Lead & Cyber Security Engineer**
+
+🎓 B.Tech in Cyber Security
+
+🔐 Cyber Security
+
+⚙ Backend Development
+
+🤖 AI Integration
+
+🗄 Database Design
+
+🚀 Deployment
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="assets/logo/archi.png" width="120"/>
+
+## Archi Sharma
+
+**AI/ML Engineer & Frontend Developer**
+
+🎓 B.Tech in Artificial Intelligence & Machine Learning
+
+🤖 AI & Machine Learning
+
+⚛ React Frontend
+
+🎨 UI/UX Design
+
+🧩 Gameplay Design
+
+🧪 Testing & Documentation
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🤝 Contributing
+
+Contributions are always welcome!
+
+If you'd like to improve Cipher Room:
+
+- 🍴 Fork the repository
+- 🌿 Create a feature branch
+- 💾 Commit your changes
+- 🚀 Open a Pull Request
+
+Please follow our coding standards and write meaningful commit messages.
+
+---
+
+# 📜 License
+
+This project is licensed under the **MIT License**.
+
+See the **LICENSE** file for more information.
+
+---
+
+<div align="center">
+
+## ⭐ Support Cipher Room
+
+If you enjoyed this project, consider giving it a ⭐ on GitHub.
+
+Your support helps us continue building innovative AI-powered cybersecurity projects.
+
+<br>
+
+### Developed with ❤️ by
+
+# Parth Goyal × Archi Sharma
+
+**Cyber Security × Artificial Intelligence**
+
+</div>
+# 🌟 Project Highlights
+
+<div align="center">
+
+| 🎯 Feature | 🚀 Status |
+|------------|-----------|
+| 🤖 AI Mission Generation | ✅ Completed |
+| 🔐 Cyber Security Challenges | ✅ Completed |
+| 💻 Hacker Terminal | 🚧 In Development |
+| 🧩 Dynamic Puzzle Engine | 🚧 In Development |
+| 🎒 Inventory System | 🚧 In Development |
+| 🌍 Multiplayer Support | 🔮 Planned |
+
+</div>
+
+---
+
+# 📈 Project Timeline
+
+```text
+Idea 💡
+   │
+   ▼
+Research 📚
+   │
+   ▼
+UI Design 🎨
+   │
+   ▼
+Development 💻
+   │
+   ▼
+Testing 🧪
+   │
+   ▼
+Release 🚀
+```
+
+---
+
+# 💙 Support the Project
+
+If you found this project interesting, you can support us by:
+
+⭐ Starring the repository
+
+🍴 Forking the project
+
+🐛 Reporting bugs
+
+💡 Suggesting new ideas
+
+🤝 Contributing to the codebase
+
+---
+
+# 🙌 Acknowledgements
+
+Special thanks to the open-source community and everyone whose tools and technologies made this project possible.
+
+- React
+- FastAPI
+- Google Gemini AI
+- Tailwind CSS
+- Three.js
+- SQLite
+
+---
+
+<div align="center">
+
+## 🚀 Ready to Escape?
+
+*"Every login is a new mission. Every mission is a new challenge."*
+
+### ⭐ Star this repository and begin your mission.
+
+<img src="assets/logo/logo.png" width="140">
+
+**Made with ❤️ by Parth Goyal & Archi Sharma**
+
+</div>
