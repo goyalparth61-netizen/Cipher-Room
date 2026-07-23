@@ -1,136 +1,163 @@
 <div align="center">
 
+<img src="assets/logo/logo.png" width="180" alt="Cipher Room Logo">
+
+<br>
+
+<img src="assets/banner/banner.png" width="100%" alt="Cipher Room Banner">
+
 # 🔐 Cipher Room
 
-### *Every Login. Every Mission. Every Cipher.*
+### Every Login. Every Mission. Every Cipher.
 
 <p>
-An <strong>AI-powered Cyber Escape Room</strong> where every login creates a unique mission filled with dynamic puzzles, digital forensics, AI-generated clues, and immersive cybersecurity challenges.
+An AI-powered <strong>Cyber Escape Room</strong> where every login creates a unique mission filled with dynamic puzzles, digital forensics, AI-generated clues, and immersive cybersecurity challenges.
 </p>
 
-<p>
+<br>
 
 <img src="https://img.shields.io/github/license/goyalparth61-netizen/Cipher-Room?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/goyalparth61-netizen/Cipher-Room?style=for-the-badge">
 <img src="https://img.shields.io/github/forks/goyalparth61-netizen/Cipher-Room?style=for-the-badge">
 <img src="https://img.shields.io/github/issues/goyalparth61-netizen/Cipher-Room?style=for-the-badge">
 <img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Built%20With-React%20%7C%20FastAPI-blue?style=for-the-badge">
 
-</p>
-
-### ⭐ Star this repository if you like the project!
+⭐ **If you like this project, don't forget to Star it!**
 
 </div>
 
 ---
 
+# 💀 ARES SYSTEM BOOT
+
+```text
+> Initializing ARES AI...
+
+██████████████████████████████ 100%
+
+STATUS         : ONLINE
+
+ACCESS LEVEL   : AUTHORIZED
+
+THREAT LEVEL   : CRITICAL
+
+MISSION        : READY
+
+Welcome Agent...
+
+Your next login will never be the same.
+```
+
+---
+
 # 🎮 About
 
-Cipher Room is an AI-powered cyber escape room game where players investigate digital evidence, solve cybersecurity puzzles, crack encrypted clues, and escape from a classified facility.
+Cipher Room is an AI-powered Cyber Escape Room that blends cybersecurity, artificial intelligence, and immersive storytelling into one unique experience.
 
-Unlike traditional escape room games, every login generates a **new mission**, making each playthrough unique.
+Players investigate digital evidence, solve hacking challenges, analyze suspicious files, crack encrypted clues, and escape before time runs out.
 
-The project combines modern web technologies, artificial intelligence, and cybersecurity concepts to create an engaging learning experience.
+Unlike traditional escape room games, every login creates a completely new mission using AI.
+
+---
+
+# 🎬 Story
+
+**Year 2042**
+
+A classified cyber facility has gone offline.
+
+All communication has stopped.
+
+The world's final defensive AI, **ARES**, has selected **YOU** to enter the facility and uncover the truth.
+
+But remember...
+
+Not every file is safe.
+
+Not every clue is real.
+
+Trust no one.
+
+Escape before the countdown reaches zero.
 
 ---
 
 # ✨ Features
 
 - 🤖 AI Generated Missions
-- 🔐 Cyber Security Challenges
 - 💻 Interactive Hacker Terminal
+- 🔐 Cyber Security Challenges
 - 📂 Digital Forensics
 - 🧩 Dynamic Puzzle Engine
+- 🔑 Password Cracking
+- 📧 Email Investigation
 - 🎒 Inventory System
-- 💡 AI Hint System
+- 💡 AI Hint Generator
 - 🏆 XP & Achievement System
 - 💾 Save Progress
-- 🌌 Immersive Cyberpunk Interface
+- 🌌 Immersive Horror Environment
 
 ---
 
-# 🎯 Gameplay
+# 🎮 Gameplay
 
 ```text
-Login
+LOGIN
    │
    ▼
-ARES AI Generates Mission
+ARES AI ACTIVATES
    │
    ▼
-Explore Facility
+MISSION GENERATED
    │
    ▼
-Collect Digital Evidence
+INVESTIGATE
    │
    ▼
-Solve Cyber Puzzles
+COLLECT DIGITAL EVIDENCE
    │
    ▼
-Unlock Security Systems
+SOLVE CYBER PUZZLES
    │
    ▼
-Escape Successfully
+UNLOCK SECURITY SYSTEM
+   │
+   ▼
+ESCAPE
 ```
-
----
-
-# 🧠 Mission Examples
-
-Every login creates a different operation.
-
-### 🦠 Operation Blackout
-
-Recover encrypted government servers after a ransomware attack.
-
-### 📧 Operation Phantom Mail
-
-Analyze suspicious emails and identify the insider.
-
-### 🔍 Operation Dark Trace
-
-Recover deleted logs and track an anonymous hacker.
-
-### 💾 Operation Silent USB
-
-Investigate malware hidden inside an unknown USB drive.
-
-### 🔐 Operation Cipher Vault
-
-Break multiple layers of encryption and escape before lockdown.
 
 ---
 
 # 🛠 Tech Stack
 
 | Category | Technology |
-|-----------|------------|
+|----------|------------|
 | Frontend | React + Vite |
 | Backend | FastAPI |
 | AI | Google Gemini API |
 | Database | SQLite |
 | Styling | Tailwind CSS |
 | Animation | GSAP |
-| 3D | Three.js & React Three Fiber |
-| Deployment | Vercel & Render |
+| 3D | Three.js |
+| Language | JavaScript & Python |
 
 ---
 
 # 🏗 Architecture
 
 ```text
-                React Frontend
-                      │
-                      ▼
+                 React Frontend
+                        │
+                        ▼
                  FastAPI Backend
-                ┌──────────────┐
-                │              │
-                ▼              ▼
-          Gemini AI        SQLite
-                │
-                ▼
-         Dynamic Missions
+                 ┌──────────────┐
+                 │              │
+                 ▼              ▼
+          Google Gemini      SQLite
+                 │
+                 ▼
+      Dynamic Mission Generator
 ```
 
 ---
@@ -140,26 +167,29 @@ Break multiple layers of encryption and escape before lockdown.
 ```text
 Cipher-Room/
 │
+├── assets/
+│   ├── banner/
+│   ├── logo/
+│   ├── screenshots/
+│   └── gifs/
+│
 ├── client/
-│   ├── src/
-│   ├── public/
-│   └── package.json
 │
 ├── server/
-│   ├── api/
-│   ├── ai/
-│   ├── database/
-│   └── main.py
 │
-├── assets/
 ├── docs/
+│
 ├── README.md
-└── LICENSE
+├── LICENSE
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── SECURITY.md
+└── CHANGELOG.md
 ```
 
 ---
 
-# 🚀 Getting Started
+# 🚀 Installation
 
 Clone the repository
 
@@ -167,7 +197,7 @@ Clone the repository
 git clone https://github.com/goyalparth61-netizen/Cipher-Room.git
 ```
 
-Move into the project
+Go into the project
 
 ```bash
 cd Cipher-Room
@@ -177,7 +207,9 @@ cd Cipher-Room
 
 ```bash
 cd client
+
 npm install
+
 npm run dev
 ```
 
@@ -185,7 +217,9 @@ npm run dev
 
 ```bash
 cd server
+
 pip install -r requirements.txt
+
 uvicorn main:app --reload
 ```
 
@@ -195,30 +229,37 @@ uvicorn main:app --reload
 
 ### Version 1
 
-- [x] Repository Setup
-- [x] Project Documentation
-- [ ] React Frontend
-- [ ] FastAPI Backend
-- [ ] Login System
-- [ ] AI Mission Generator
-- [ ] Inventory
-- [ ] Fake Terminal
-- [ ] Save Progress
+- ✅ Repository Setup
+- ✅ Documentation
+- 🚧 React Frontend
+- 🚧 FastAPI Backend
+- ⏳ Login System
+- ⏳ AI Mission Generator
+- ⏳ Puzzle Engine
+- ⏳ Inventory System
+- ⏳ Save Progress
 
 ### Version 2
 
-- [ ] Multiple Rooms
-- [ ] Daily Challenges
-- [ ] Voice AI
-- [ ] Leaderboards
-- [ ] Achievements
+- Daily Challenges
+- Voice AI
+- Better Puzzles
+- Global Leaderboards
 
 ### Version 3
 
-- [ ] Multiplayer
-- [ ] Procedural Room Generation
-- [ ] Community Missions
-- [ ] VR Support
+- Multiplayer
+- Procedural Rooms
+- Community Missions
+- VR Support
+
+---
+
+# 📸 Screenshots
+
+| Login | Terminal | Gameplay |
+|-------|----------|-----------|
+| Coming Soon | Coming Soon | Coming Soon |
 
 ---
 
@@ -226,7 +267,9 @@ uvicorn main:app --reload
 
 Contributions are welcome.
 
-If you have ideas to improve the gameplay, UI, AI system, or documentation, feel free to fork the repository, create a feature branch, and open a Pull Request.
+Feel free to fork the repository, create a new branch, improve the project, and open a Pull Request.
+
+For detailed contribution guidelines, please read **CONTRIBUTING.md**.
 
 ---
 
@@ -238,16 +281,16 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Developer
 
-**Parth Goyal**
+## Parth Goyal
 
-🎓 B.Tech Cyber Security Student
+🎓 B.Tech Cyber Security
 
 🏫 Quantum University, Roorkee
 
 ### Interests
 
-- Artificial Intelligence
 - Cyber Security
+- Artificial Intelligence
 - Machine Learning
 - Digital Forensics
 - Full Stack Development
@@ -256,23 +299,23 @@ This project is licensed under the **MIT License**.
 
 <div align="center">
 
-# ⭐ Support the Project
+# ⭐ Support Cipher Room
 
-If you enjoyed Cipher Room,
+If you enjoyed this project,
 
-⭐ Star the repository
+⭐ Star this Repository
 
-🍴 Fork the repository
+🍴 Fork the Repository
 
-💡 Suggest new features
+🐞 Report Bugs
 
-🐞 Report bugs
+💡 Suggest Features
 
-🤝 Contribute to development
+🤝 Contribute
 
 ---
 
-### 🔐 "Every Login. Every Mission. Every Cipher."
+## 🔐 Every Login. Every Mission. Every Cipher.
 
 Made with ❤️ by **Parth Goyal**
 
