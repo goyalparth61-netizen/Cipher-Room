@@ -726,17 +726,18 @@ FastAPI Backend
 <tr>
 
 <td align="center">
-<img src="assets/agents/parth-agent.png" width="380" alt="Agent Parth"/>
+<img src="assets/agents/parth-card.png" width="380" alt="Parth Goyal"/>
 </td>
 
 <td align="center">
-<img src="assets/agents/archi-agent.png" width="380" alt="Agent Archi"/>
+<img src="assets/agents/archi-card.png" width="380" alt="Archi Sharma"/>
 </td>
 
 </tr>
 </table>
 
 </div>
+
 
 ---
 
