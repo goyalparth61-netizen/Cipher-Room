@@ -4,13 +4,9 @@
 
 <br><br>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=60&lines=🔐+Every+Login+Creates+a+New+Mission.;🤖+AI-Powered+Cyber+Escape+Room.;💻+Hack+•+Investigate+•+Decrypt+•+Escape.;🛡️+Think+Like+a+Real+Cyber+Investigator.;🚀+Welcome+to+Cipher+Room." />
-
-</div>
-
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&repeat=true&width=900&lines=%24+Initializing+ARES+AI...;%24+Generating+Mission...;%24+Loading+Cyber+Investigation...;%24+Decrypting+Files...;%24+Mission+Ready!" alt="Terminal Animation" />
+</p>
 
 # 🔐 CIPHER ROOM
 
