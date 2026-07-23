@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&repeat=true&width=900&lines=%24+Initializing+ARES+AI...;%24+Generating+Mission...;%24+Loading+Cyber+Investigation...;%24+Decrypting+Files...;%24+Mission+Ready!" alt="Terminal Animation" />
 </p>
 
+
 # 🔐 CIPHER ROOM
 
 ### AI Powered Cyber Escape Room
