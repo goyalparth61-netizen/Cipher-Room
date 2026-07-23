@@ -4,15 +4,12 @@
 
 <br><br>
 
-<img src="assets/logo/logo.png" width="170" alt="Cipher Room Logo">
 
 # 🔐 CIPHER ROOM
 
 ### AI Powered Cyber Escape Room
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1000&color=FF3131&center=true&vCenter=true&width=900&lines=Every+Login+Creates+a+Unique+Mission.;Hack+•+Investigate+•+Decrypt+•+Escape.;Artificial+Intelligence+Meets+Cybersecurity.;Learn+Cybersecurity+Through+Gameplay.;Welcome+to+Cipher+Room." />
-
-<br>
+<img src="assets/logo/logo.png" width="170" alt="Cipher Room Logo">
 
 ### 💜 Made with ❤️ by Team Cipher Room
 
