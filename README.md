@@ -1,163 +1,286 @@
 <div align="center">
 
-<img src="assets/logo/logo.png" width="180" alt="Cipher Room Logo">
+<img src="assets/banner/banner.png" width="100%" alt="Cipher Room Banner"/>
 
 <br>
 
-<img src="assets/banner/banner.png" width="100%" alt="Cipher Room Banner">
+# 🔐 CIPHER ROOM
 
-# 🔐 Cipher Room
+### *Every Login. Every Mission. Every Cipher.*
 
-### Every Login. Every Mission. Every Cipher.
-
-<p>
-An AI-powered <strong>Cyber Escape Room</strong> where every login creates a unique mission filled with dynamic puzzles, digital forensics, AI-generated clues, and immersive cybersecurity challenges.
-</p>
+> **An AI-Powered Cyber Escape Room where every login creates a unique mission.**
 
 <br>
 
-<img src="https://img.shields.io/github/license/goyalparth61-netizen/Cipher-Room?style=for-the-badge">
-<img src="https://img.shields.io/github/stars/goyalparth61-netizen/Cipher-Room?style=for-the-badge">
-<img src="https://img.shields.io/github/forks/goyalparth61-netizen/Cipher-Room?style=for-the-badge">
-<img src="https://img.shields.io/github/issues/goyalparth61-netizen/Cipher-Room?style=for-the-badge">
-<img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Built%20With-React%20%7C%20FastAPI-blue?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/goyalparth61-netizen/Cipher-Room?style=for-the-badge&logo=github&color=yellow">
+<img src="https://img.shields.io/github/forks/goyalparth61-netizen/Cipher-Room?style=for-the-badge&logo=github&color=blue">
+<img src="https://img.shields.io/github/issues/goyalparth61-netizen/Cipher-Room?style=for-the-badge&logo=github&color=red">
+<img src="https://img.shields.io/github/license/goyalparth61-netizen/Cipher-Room?style=for-the-badge&color=green">
 
-⭐ **If you like this project, don't forget to Star it!**
+<br><br>
+
+**🎮 AI Powered • 🔐 Cyber Security • 🤖 Gemini AI • 💻 Escape Room**
 
 </div>
 
 ---
 
-# 💀 ARES SYSTEM BOOT
+# 💀 INITIALIZING ARES AI
 
 ```text
-> Initializing ARES AI...
+> Booting ARES AI...
 
-██████████████████████████████ 100%
+████████████████████████████████ 100%
 
 STATUS         : ONLINE
-
 ACCESS LEVEL   : AUTHORIZED
-
 THREAT LEVEL   : CRITICAL
-
 MISSION        : READY
 
-Welcome Agent...
+--------------------------------------------------
 
-Your next login will never be the same.
+Welcome Agent.
+
+A classified cyber facility has gone dark.
+
+Your mission is to investigate,
+solve every puzzle,
+and escape before time runs out.
+
+Every login generates a different mission.
+
+Trust No One.
+
+--------------------------------------------------
 ```
 
 ---
 
-# 🎮 About
+# 🎮 ABOUT THE GAME
 
-Cipher Room is an AI-powered Cyber Escape Room that blends cybersecurity, artificial intelligence, and immersive storytelling into one unique experience.
+Cipher Room is an AI-powered cyber escape room game where players investigate digital evidence, solve cybersecurity puzzles, crack encrypted clues, and escape from a classified facility.
 
-Players investigate digital evidence, solve hacking challenges, analyze suspicious files, crack encrypted clues, and escape before time runs out.
+Unlike traditional escape room games, **every login creates a completely new mission**, making every playthrough unique and unpredictable.
 
-Unlike traditional escape room games, every login creates a completely new mission using AI.
+Built using modern web technologies and Artificial Intelligence, Cipher Room combines immersive storytelling with cybersecurity concepts to create an engaging puzzle experience.
 
 ---
 
-# 🎬 Story
+# 🎬 STORY
 
-**Year 2042**
+### Year 2042
 
-A classified cyber facility has gone offline.
+A secret underground cyber research facility has suddenly gone offline.
 
-All communication has stopped.
+Security cameras have stopped responding.
 
-The world's final defensive AI, **ARES**, has selected **YOU** to enter the facility and uncover the truth.
+All employees have disappeared.
+
+The world's final defensive AI, **ARES**, has chosen **YOU** as the only cyber analyst capable of entering the facility.
+
+Your mission is simple...
+
+🔎 Investigate.
+
+💻 Hack.
+
+🧩 Solve.
+
+🏃 Escape.
 
 But remember...
 
-Not every file is safe.
+**Not every clue tells the truth.**
+---
 
-Not every clue is real.
+# ✨ KEY FEATURES
 
-Trust no one.
+<table>
+<tr>
 
-Escape before the countdown reaches zero.
+<td width="50%">
+
+### 🤖 AI Mission Generator
+
+Every login creates a brand-new mission using Artificial Intelligence.
+
+No two playthroughs are ever the same.
+
+</td>
+
+<td width="50%">
+
+### 💻 Interactive Hacker Terminal
+
+Execute commands, unlock hidden files, decrypt passwords, and investigate suspicious systems.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🔐 Cyber Security Challenges
+
+Face real-world inspired puzzles including:
+
+• Password Cracking
+
+• Digital Forensics
+
+• Log Analysis
+
+• Network Investigation
+
+• File Recovery
+
+</td>
+
+<td width="50%">
+
+### 🧩 Dynamic Puzzle Engine
+
+Every room contains randomized clues, passwords, and encrypted files that change every time you play.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎒 Inventory System
+
+Collect tools, access cards, USB drives, hidden notes, passwords, and digital evidence to progress.
+
+</td>
+
+<td width="50%">
+
+### 💡 Smart Hint System
+
+Need help?
+
+ARES AI analyzes your progress and provides contextual hints without revealing the full solution.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# ✨ Features
-
-- 🤖 AI Generated Missions
-- 💻 Interactive Hacker Terminal
-- 🔐 Cyber Security Challenges
-- 📂 Digital Forensics
-- 🧩 Dynamic Puzzle Engine
-- 🔑 Password Cracking
-- 📧 Email Investigation
-- 🎒 Inventory System
-- 💡 AI Hint Generator
-- 🏆 XP & Achievement System
-- 💾 Save Progress
-- 🌌 Immersive Horror Environment
-
----
-
-# 🎮 Gameplay
+# 🎮 GAMEPLAY
 
 ```text
-LOGIN
-   │
-   ▼
-ARES AI ACTIVATES
-   │
-   ▼
-MISSION GENERATED
-   │
-   ▼
-INVESTIGATE
-   │
-   ▼
-COLLECT DIGITAL EVIDENCE
-   │
-   ▼
-SOLVE CYBER PUZZLES
-   │
-   ▼
-UNLOCK SECURITY SYSTEM
-   │
-   ▼
-ESCAPE
+             LOGIN
+               │
+               ▼
+      ARES AI ACTIVATES
+               │
+               ▼
+      MISSION GENERATED
+               │
+               ▼
+     ENTER THE FACILITY
+               │
+               ▼
+ INVESTIGATE THE EVIDENCE
+               │
+               ▼
+ SOLVE CYBER PUZZLES
+               │
+               ▼
+UNLOCK RESTRICTED AREAS
+               │
+               ▼
+      ESCAPE SUCCESSFULLY
 ```
 
+---
+
+# 🎯 GAME MODES
+
+| Mode | Description |
+|------|-------------|
+| 🟢 Story Mode | Experience the complete AI-generated campaign. |
+| 🔴 Nightmare Mode | Harder puzzles, limited hints, and strict countdown timers. |
+| 🟡 Practice Mode | Learn cybersecurity concepts without time pressure. |
+| 🔵 Daily Mission | A fresh AI-generated mission every day. |
+
+---
+
+# 🔥 WHAT MAKES CIPHER ROOM DIFFERENT?
+
+✅ Every login creates a new mission.
+
+✅ AI-generated clues and objectives.
+
+✅ Cybersecurity-based escape challenges.
+
+✅ Multiple endings.
+
+✅ Interactive terminal experience.
+
+✅ Immersive cyberpunk atmosphere.
+
+✅ Replayable gameplay.
+
+---
+
+# 🧠 CYBERSECURITY SKILLS YOU WILL USE
+
+- 🔍 Digital Forensics
+- 🔐 Password Security
+- 📧 Phishing Detection
+- 🛡 Incident Response
+- 💻 Linux Commands
+- 🌐 Network Investigation
+- 🧩 Logical Problem Solving
+- 📂 File Analysis
+
+---
+
+# 🎥 GAME PREVIEW
+
+> 📸 Screenshots and gameplay GIFs will be added after Version 1 release.
+
+| Login Screen | Mission Room | Hacker Terminal |
+|--------------|--------------|-----------------|
+| Coming Soon | Coming Soon | Coming Soon |
+
+---
 ---
 
 # 🛠 Tech Stack
 
 | Category | Technology |
 |----------|------------|
-| Frontend | React + Vite |
+| Frontend | React + Vite + Tailwind CSS |
 | Backend | FastAPI |
-| AI | Google Gemini API |
 | Database | SQLite |
-| Styling | Tailwind CSS |
-| Animation | GSAP |
-| 3D | Three.js |
-| Language | JavaScript & Python |
+| AI | Google Gemini API |
+| Deployment | Vercel & Render |
 
 ---
 
 # 🏗 Architecture
 
 ```text
-                 React Frontend
-                        │
-                        ▼
-                 FastAPI Backend
-                 ┌──────────────┐
-                 │              │
-                 ▼              ▼
-          Google Gemini      SQLite
-                 │
-                 ▼
-      Dynamic Mission Generator
+React Frontend
+      │
+      ▼
+FastAPI Backend
+      │
+      ▼
+ Gemini AI
+      │
+      ▼
+   SQLite
 ```
 
 ---
@@ -168,108 +291,93 @@ ESCAPE
 Cipher-Room/
 │
 ├── assets/
-│   ├── banner/
-│   ├── logo/
-│   ├── screenshots/
-│   └── gifs/
-│
 ├── client/
-│
 ├── server/
-│
 ├── docs/
-│
 ├── README.md
-├── LICENSE
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-├── SECURITY.md
-└── CHANGELOG.md
+└── LICENSE
 ```
 
 ---
 
-# 🚀 Installation
-
-Clone the repository
+# 🚀 Getting Started
 
 ```bash
 git clone https://github.com/goyalparth61-netizen/Cipher-Room.git
-```
 
-Go into the project
-
-```bash
 cd Cipher-Room
-```
-
-### Frontend
-
-```bash
-cd client
 
 npm install
 
 npm run dev
 ```
 
-### Backend
-
-```bash
-cd server
-
-pip install -r requirements.txt
-
-uvicorn main:app --reload
-```
-
 ---
 
 # 🗺 Roadmap
 
-### Version 1
-
-- ✅ Repository Setup
-- ✅ Documentation
-- 🚧 React Frontend
-- 🚧 FastAPI Backend
-- ⏳ Login System
-- ⏳ AI Mission Generator
-- ⏳ Puzzle Engine
-- ⏳ Inventory System
-- ⏳ Save Progress
-
-### Version 2
-
-- Daily Challenges
-- Voice AI
-- Better Puzzles
-- Global Leaderboards
-
-### Version 3
-
-- Multiplayer
-- Procedural Rooms
-- Community Missions
-- VR Support
+- ✅ Version 1 – AI Escape Room
+- 🔄 Version 2 – Daily Missions
+- 🚀 Version 3 – Multiplayer Mode
 
 ---
-
-# 📸 Screenshots
-
-| Login | Terminal | Gameplay |
-|-------|----------|-----------|
-| Coming Soon | Coming Soon | Coming Soon |
-
 ---
 
 # 🤝 Contributing
 
-Contributions are welcome.
+Contributions are welcome!
 
-Feel free to fork the repository, create a new branch, improve the project, and open a Pull Request.
+1. Fork this repository.
+2. Create a new feature branch.
+3. Commit your changes.
+4. Push your branch.
+5. Open a Pull Request.
 
-For detailed contribution guidelines, please read **CONTRIBUTING.md**.
+---
+
+# 👨‍💻 Developers
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+## 👨‍💻 Parth Goyal
+
+**Project Lead**
+
+🎓 B.Tech in Cyber Security
+
+🔐 Cyber Security
+
+🤖 Artificial Intelligence
+
+💻 Full Stack Development
+
+🛡 Security Research
+
+</td>
+
+<td align="center" width="50%">
+
+## 👩‍💻 Archi Sharma
+
+**Project Collaborator**
+
+🎓 B.Tech in Artificial Intelligence & Machine Learning
+
+🤖 AI & Machine Learning
+
+🎨 UI/UX Design
+
+📄 Documentation
+
+🧪 Testing & Quality Assurance
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -277,46 +385,129 @@ For detailed contribution guidelines, please read **CONTRIBUTING.md**.
 
 This project is licensed under the **MIT License**.
 
----
-
-# 👨‍💻 Developer
-
-## Parth Goyal
-
-🎓 B.Tech Cyber Security
-
-🏫 Quantum University, Roorkee
-
-### Interests
-
-- Cyber Security
-- Artificial Intelligence
-- Machine Learning
-- Digital Forensics
-- Full Stack Development
+See the LICENSE file for more details.
 
 ---
 
 <div align="center">
 
-# ⭐ Support Cipher Room
+## ⭐ Support the Project
 
-If you enjoyed this project,
+If you like **Cipher Room**, please consider giving it a ⭐ on GitHub.
 
-⭐ Star this Repository
+Your support motivates us to build better open-source projects.
 
-🍴 Fork the Repository
+<br>
 
-🐞 Report Bugs
+Made with ❤️ by **Parth Goyal & Archi Sharma**
 
-💡 Suggest Features
+</div>
+---
 
-🤝 Contribute
+# 🤝 Contributing
+
+We welcome contributions from developers, designers, and cybersecurity enthusiasts.
+
+If you'd like to improve Cipher Room:
+
+1. Fork the repository.
+2. Create a feature branch.
+3. Commit your changes.
+4. Push the branch.
+5. Open a Pull Request.
+
+Please follow our coding standards and write clear commit messages.
 
 ---
 
-## 🔐 Every Login. Every Mission. Every Cipher.
+# 🔒 Security
 
-Made with ❤️ by **Parth Goyal**
+If you discover a security vulnerability, please report it responsibly by opening a private issue or contacting the maintainers.
+
+Do **not** disclose vulnerabilities publicly until they have been addressed.
+
+---
+
+# 📊 Project Status
+
+| Status | Progress |
+|---------|----------|
+| Planning | ✅ Completed |
+| UI Design | 🔄 In Progress |
+| Backend | ⏳ Upcoming |
+| AI Integration | ⏳ Upcoming |
+| Testing | ⏳ Upcoming |
+| Release | 🚀 Version 1 |
+
+---
+
+# 🌟 Future Features
+
+- 🤖 Smarter AI-generated missions
+- 🌐 Multiplayer Mode
+- 🎤 Voice Commands
+- 🏆 Global Leaderboards
+- 📱 Mobile Support
+- 🥽 VR Escape Room
+
+---
+
+# 👨‍💻 Developers
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://github.com/identicons/goyalparth61-netizen.png" width="100"/>
+
+### Parth Goyal
+
+**Project Lead**
+
+Cyber Security • AI • Full Stack
+
+</td>
+
+<td align="center">
+
+<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="100"/>
+
+### Archi
+
+**Project Collaborator**
+
+UI/UX • Documentation • Testing
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📜 License
+
+This project is licensed under the **MIT License**.
+
+See the **LICENSE** file for more information.
+
+---
+
+<div align="center">
+
+## ⭐ Support the Project
+
+If you enjoyed Cipher Room,
+
+⭐ Star this repository
+
+🍴 Fork the project
+
+💡 Share your ideas
+
+🤝 Contribute to development
+
+<br><br>
+
+**Made with ❤️ by Parth Goyal & Archi**
 
 </div>
