@@ -402,7 +402,7 @@ Your support motivates us to build better open-source projects.
 Made with ❤️ by **Parth Goyal & Archi Sharma**
 
 </div>
----
+
 
 # 🤝 Contributing
 
@@ -508,6 +508,6 @@ If you enjoyed Cipher Room,
 
 <br><br>
 
-**Made with ❤️ by Parth Goyal & Archi**
+**Made with ❤️ by Parth Goyal & Archi Sharma**
 
 </div>
