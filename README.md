@@ -4,25 +4,19 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=🔐+Cipher+Room;🤖+AI-Powered+Cyber+Escape+Room;💻+Hack.+Investigate.+Escape.;🚀+Every+Login+Creates+A+New+Mission"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=🔐+Cipher+Room;🤖+AI-Powered+Cyber+Escape+Room;💻+Hack.+Investigate.+Escape.;🚀+Every+Login+Creates+A+Unique+Mission"/>
 
 <br><br>
-
-<p>
 
 <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Gemini-AI-F9AB00?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_AI-F9AB00?style=for-the-badge&logo=google&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-</p>
-
-<p>
-
-<img src="https://img.shields.io/github/license/goyalparth61-netizen/Cipher-Room?style=for-the-badge"/>
+<br><br>
 
 <img src="https://img.shields.io/github/stars/goyalparth61-netizen/Cipher-Room?style=for-the-badge"/>
 
@@ -30,17 +24,19 @@
 
 <img src="https://img.shields.io/github/issues/goyalparth61-netizen/Cipher-Room?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/github/license/goyalparth61-netizen/Cipher-Room?style=for-the-badge"/>
+
+<br><br>
 
 # 🔐 Cipher Room
 
-### Every Login. Every Mission. Every Cipher.
+### 🚀 Every Login. Every Mission. Every Cipher.
 
 ### 🤖 AI-Powered Cyber Escape Room
 
 Investigate digital evidence, crack encrypted clues, solve cybersecurity puzzles, and escape from a classified facility.
 
-Unlike traditional escape room games, **every login creates a brand-new AI-powered mission**, making every playthrough unique.
+Unlike traditional escape room games, **every login generates a completely new AI-powered mission**, making every playthrough unique.
 
 <br>
 
@@ -60,90 +56,102 @@ Unlike traditional escape room games, **every login creates a brand-new AI-power
 
 ---
 
-> ## ⚠️ *"The system isn't broken... it's hiding something."*
+> ## ⚠️ **"The system isn't broken... it's hiding something."**
 
-<p align="center">
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/matrix.gif" width="100%">
-</p>
-# 🤖 ARES AI System
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                 A R E S   A I   C O R E                    ║
-╚══════════════════════════════════════════════════════════════╝
-
-[ SYSTEM BOOT ]
-
-▰ Initializing Artificial Intelligence............. COMPLETE
-▰ Loading Security Protocols....................... COMPLETE
-▰ Verifying Agent Credentials...................... COMPLETE
-▰ Connecting Mission Database...................... COMPLETE
-▰ Decrypting Classified Files...................... COMPLETE
-▰ Scanning Facility................................. COMPLETE
-
-──────────────────────────────────────────────────────────────
-
-STATUS           : 🟢 ONLINE
-ACCESS LEVEL     : 🔐 AUTHORIZED
-MISSION STATUS   : 🚀 READY
-THREAT LEVEL     : 🔴 CRITICAL
-
-──────────────────────────────────────────────────────────────
-
-WELCOME, AGENT.
+### Welcome, Agent.
 
 A classified cyber facility has gone offline.
 
-Its security systems have failed.
-Encrypted files are scattered throughout the facility.
-Unknown activity has been detected.
+ARES AI has selected **you** to uncover the truth.
+
+Every clue matters.
+
+Every decision changes the mission.
+
+Every login creates a new challenge.
+
+---
+# 🤖 ARES AI
+
+```text
+╔════════════════════════════════════════════════════════════╗
+║                  A R E S   A I   S Y S T E M              ║
+╚════════════════════════════════════════════════════════════╝
+
+> Booting Artificial Intelligence...
+
+[██████████████████████████████] 100%
+
+✓ Security Protocols Loaded
+
+✓ Mission Database Connected
+
+✓ Classified Files Decrypted
+
+✓ Threat Analysis Complete
+
+────────────────────────────────────────────────────────────
+
+STATUS        : 🟢 ONLINE
+
+ACCESS LEVEL  : 🔐 AUTHORIZED
+
+MISSION       : READY
+
+THREAT LEVEL  : 🔴 CRITICAL
+
+────────────────────────────────────────────────────────────
+
+WELCOME, AGENT.
+
+A classified cyber research facility has gone dark.
+
+Communication has been lost.
+
+Security systems are compromised.
+
+Sensitive files have been encrypted.
 
 ARES has selected YOU for this mission.
 
 MISSION OBJECTIVES
 
-✔ Investigate Digital Evidence
-✔ Crack Encryption Keys
-✔ Solve Cybersecurity Challenges
-✔ Recover Classified Files
-✔ Escape Before Lockdown
+✓ Investigate Digital Evidence
 
-WARNING
+✓ Solve Cybersecurity Challenges
+
+✓ Recover Classified Intelligence
+
+✓ Escape Before Complete Lockdown
+
+Remember...
 
 Every login generates a completely different mission.
 
-No two missions are ever the same.
-
-GOOD LUCK, AGENT.
-
-──────────────────────────────────────────────────────────────
+Good Luck, Agent.
 ```
 
 ---
 
 # 🎯 About Cipher Room
 
-**Cipher Room** is an AI-powered cyber escape room designed to blend **Cybersecurity**, **Artificial Intelligence**, and **immersive storytelling** into one unique gaming experience.
+**Cipher Room** is an **AI-powered Cyber Escape Room** where players investigate digital evidence, solve cybersecurity puzzles, decrypt encrypted clues, and escape from a classified research facility.
 
-Unlike traditional escape room games, Cipher Room creates a **brand-new mission every time a player logs in**. Each playthrough contains different puzzles, clues, encrypted files, and investigation paths generated with AI.
+Unlike traditional escape room games, Cipher Room uses **Artificial Intelligence** to generate **unique missions**, ensuring that every playthrough is different from the previous one.
 
-Players don't just solve puzzles—they think like cybersecurity professionals by analyzing digital evidence, investigating system logs, cracking encrypted messages, and uncovering hidden secrets inside a classified research facility.
+Players experience realistic cybersecurity concepts such as digital forensics, cryptography, password cracking, log analysis, phishing detection, and network investigation while enjoying an immersive escape room adventure.
 
 ---
 
-# 🌟 Why Cipher Room?
+# 🌟 Key Highlights
 
-🧠 AI Generated Missions
-
-🔐 Cybersecurity Based Challenges
-
-🧩 Unique Escape Room Experience
-
-💻 Realistic Digital Investigation
-
-🎮 High Replayability
-
-🚀 Different Story Every Login
+- 🤖 AI Generated Missions
+- 🔐 Cybersecurity Based Challenges
+- 🧩 Interactive Escape Room Gameplay
+- 💻 Digital Forensics Investigation
+- 🔑 Cryptography & Encryption Puzzles
+- 🎮 High Replayability
+- 🚀 Unique Story Every Login
 
 ---
 
@@ -153,39 +161,39 @@ Players don't just solve puzzles—they think like cybersecurity professionals b
 
 A secret underground cyber research facility suddenly goes silent.
 
-All communication is lost.
+No signals.
 
-Security cameras stop responding.
+No communication.
 
-The servers become encrypted.
+No survivors.
 
-Scientists disappear without leaving any trace.
+Only encrypted files remain.
 
-The world's last defensive Artificial Intelligence—
+The world's last defensive Artificial Intelligence —
 
 ## **ARES**
 
-has detected suspicious activity inside the facility.
+has detected abnormal activity inside the facility.
 
-Unable to enter physically, ARES recruits elite cyber analysts from around the world.
+Unable to investigate alone, ARES recruits elite cyber analysts to uncover the truth.
 
 You are one of them.
 
-Your mission is simple…
+Your mission is simple...
 
-**Enter the facility.**
+🔍 Investigate the Facility
 
-**Recover classified intelligence.**
+🔐 Recover Classified Files
 
-**Find the truth.**
+🧩 Solve Every Puzzle
 
-**Escape before the entire system locks down forever.**
+🚪 Escape Before Lockdown
 
 But remember...
 
 > **Every room hides a secret.**
 
-> **Every clue tells only part of the story.**
+> **Every clue reveals only part of the truth.**
 
 > **Every login creates a brand-new mission.**
 
@@ -195,9 +203,9 @@ But remember...
 
 ## 🚀 Mission Status
 
-| Status | Access | Threat | AI |
-|:------:|:------:|:------:|:--:|
-| 🟢 Online | 🔐 Authorized | 🔴 Critical | 🤖 Active |
+| 🟢 System | 🔐 Access | 🤖 AI | 🚨 Threat |
+|:---------:|:---------:|:----:|:---------:|
+| Online | Authorized | Active | Critical |
 
 </div>
 
@@ -206,68 +214,90 @@ But remember...
 
 <div align="center">
 
-| 🔐 Security | 🤖 Artificial Intelligence | 🎮 Gameplay |
-|:-----------:|:--------------------------:|:-----------:|
-| Cybersecurity Challenges | AI Generated Missions | Escape Room Experience |
-| Digital Evidence Analysis | Dynamic Story Generation | Interactive Puzzle Solving |
-| Cryptography & Encryption | Adaptive Difficulty | Mission-Based Progression |
-| Incident Investigation | Smart Hint System | Multiple Endings |
+| 🔐 Cybersecurity | 🤖 Artificial Intelligence | 🎮 Gameplay |
+|:----------------:|:-------------------------:|:-----------:|
+| Digital Forensics | AI Generated Missions | Escape Room Experience |
+| Cryptography | Dynamic Story Generation | Interactive Challenges |
+| Log Analysis | Smart Hint System | Mission Progression |
+| Network Investigation | Adaptive Difficulty | Multiple Endings |
 
 </div>
 
 ---
 
-# 🎮 Core Features
+# 🚀 What Makes Cipher Room Different?
 
-### 🤖 AI Generated Missions
-Every login creates a brand-new mission with unique puzzles, clues, encrypted files, and investigation paths.
+## 🤖 AI Generated Missions
 
----
-
-### 🔐 Cybersecurity Challenges
-Solve realistic cybersecurity problems including cryptography, digital forensics, password cracking, network investigation, and log analysis.
+Every login generates a completely unique mission using Artificial Intelligence. No two players experience the same investigation.
 
 ---
 
-### 🧩 Escape Room Gameplay
-Explore rooms, investigate digital evidence, unlock secured systems, and solve interconnected puzzles to progress.
+## 🔐 Real Cybersecurity Challenges
+
+Learn practical cybersecurity concepts through interactive gameplay.
+
+✔ Password Cracking
+
+✔ Cryptography
+
+✔ Digital Forensics
+
+✔ Log Analysis
+
+✔ Network Investigation
+
+✔ Phishing Detection
 
 ---
 
-### 🕵️ Digital Investigation
-Analyze suspicious emails, encrypted documents, system logs, QR codes, metadata, and hidden clues.
+## 🧩 Interactive Puzzle Solving
+
+Solve realistic cybersecurity puzzles by collecting clues, analyzing evidence, decrypting files, and unlocking restricted systems.
 
 ---
 
-### 💡 Smart Hint System
-Need help? ARES AI provides contextual hints without revealing the complete solution.
+## 💡 Smart AI Hint System
+
+Stuck on a puzzle?
+
+ARES AI provides intelligent hints that guide you without revealing the complete solution.
 
 ---
 
-### 🔄 High Replayability
-No two missions are the same. AI continuously generates fresh objectives and puzzle combinations.
+## 🔄 High Replayability
+
+Every mission includes different:
+
+- Objectives
+- Clues
+- Puzzle Paths
+- Encrypted Files
+- Hidden Secrets
+
+This makes every playthrough unique.
 
 ---
 
-# 🎯 Gameplay Flow
+# 🎮 Gameplay Flow
 
 ```text
 Player Login
       │
       ▼
-AI Generates New Mission
+ARES AI Generates Mission
       │
       ▼
-Receive Briefing from ARES
+Mission Briefing
       │
       ▼
-Explore Classified Facility
+Explore Facility
       │
       ▼
 Collect Digital Evidence
       │
       ▼
-Solve Cybersecurity Puzzles
+Solve Cybersecurity Challenges
       │
       ▼
 Decrypt Secret Files
@@ -281,61 +311,35 @@ Escape Successfully
 
 ---
 
-# 🧩 Mission Types
+# 🎯 Mission Types
 
 | Mission | Description |
 |----------|-------------|
 | 🔑 Password Cracking | Recover hidden credentials using cybersecurity techniques. |
-| 🔐 Encryption Challenge | Decode encrypted messages and secret files. |
-| 📁 Digital Forensics | Investigate system logs, metadata, and hidden evidence. |
-| 🌐 Network Investigation | Trace suspicious activity across compromised systems. |
-| 📧 Email Analysis | Identify phishing attacks and malicious communications. |
-| 💾 Data Recovery | Restore deleted or corrupted classified information. |
+| 🔐 Encryption Challenge | Decode encrypted messages and secure files. |
+| 📂 Digital Forensics | Investigate logs, metadata, and hidden evidence. |
+| 🌐 Network Investigation | Trace suspicious activity inside the facility. |
+| 📧 Phishing Analysis | Detect malicious emails and fake communications. |
+| 💾 Data Recovery | Restore deleted or corrupted classified files. |
 
 ---
 
-# 🚀 Why Cipher Room?
+# 🌟 Why Play Cipher Room?
 
-✅ AI-Powered Gameplay
-
-✅ Real Cybersecurity Concepts
-
-✅ Dynamic Storytelling
-
-✅ Unique Mission Every Login
-
-✅ Immersive Escape Room Experience
-
-✅ Learn While Playing
-
-✅ High Replay Value
+- 🤖 AI Powered Gameplay
+- 🔐 Learn Cybersecurity While Playing
+- 🎮 Immersive Escape Room Experience
+- 🔄 Different Mission Every Login
+- 🧩 Challenging Puzzles
+- 🚀 High Replay Value
 
 ---
 
 <div align="center">
 
-## 🎯 Mission Progress
+## 🔓 Every Login Starts a New Mission
 
-```text
-Login
-  │
-  ▼
-Mission Assigned
-  │
-  ▼
-Evidence Collection
-  │
-  ▼
-Puzzle Solving
-  │
-  ▼
-System Breach
-  │
-  ▼
-Escape
-```
-
-**🔓 Every Mission Begins With a Login. Every Escape Starts With a Cipher.**
+**Hack • Investigate • Solve • Escape**
 
 </div>
 
@@ -346,13 +350,13 @@ Escape
 
 | Category | Technologies |
 |:---------|:-------------|
-| 🎨 Frontend | React, Vite, Tailwind CSS, Three.js, React Three Fiber, GSAP |
-| ⚙️ Backend | FastAPI, Python |
-| 🤖 Artificial Intelligence | Google Gemini API |
+| 🎨 Frontend | React • Vite • Tailwind CSS • Three.js • React Three Fiber • GSAP |
+| ⚙️ Backend | FastAPI • Python |
+| 🤖 AI | Google Gemini API |
 | 🗄️ Database | SQLite |
-| 🔐 Authentication | JWT (Planned) |
-| ☁️ Deployment | Vercel, Render |
-| 🛠️ Version Control | Git & GitHub |
+| 🔐 Authentication | JWT *(Planned)* |
+| ☁️ Deployment | Vercel • Render |
+| 🛠️ Version Control | Git • GitHub |
 
 </div>
 
@@ -361,31 +365,31 @@ Escape
 # 🏗️ System Architecture
 
 ```text
-                    ┌────────────────────────┐
-                    │       PLAYER           │
-                    └──────────┬─────────────┘
-                               │
-                               ▼
-                    ┌────────────────────────┐
-                    │   React + Tailwind UI  │
-                    └──────────┬─────────────┘
-                               │
-                         API Requests
-                               │
-                               ▼
-                    ┌────────────────────────┐
-                    │      FastAPI Server    │
-                    └──────────┬─────────────┘
-                               │
-              ┌────────────────┴────────────────┐
-              ▼                                 ▼
-    ┌──────────────────┐             ┌──────────────────┐
-    │   Gemini AI API  │             │     SQLite DB    │
-    └──────────────────┘             └──────────────────┘
-              │                                 │
-              └──────────────┬──────────────────┘
-                             ▼
-                 AI Generated Cyber Missions
+                    ┌─────────────────────┐
+                    │       Player        │
+                    └─────────┬───────────┘
+                              │
+                              ▼
+                 ┌─────────────────────────┐
+                 │  React + Tailwind CSS   │
+                 └─────────┬───────────────┘
+                           │
+                      API Requests
+                           │
+                           ▼
+                 ┌─────────────────────────┐
+                 │     FastAPI Backend     │
+                 └─────────┬───────────────┘
+                           │
+          ┌────────────────┴────────────────┐
+          ▼                                 ▼
+ ┌────────────────────┐          ┌────────────────────┐
+ │   Gemini AI API    │          │     SQLite DB      │
+ └────────────────────┘          └────────────────────┘
+          │                                 │
+          └──────────────┬──────────────────┘
+                         ▼
+             AI Generated Cyber Missions
 ```
 
 ---
@@ -417,23 +421,24 @@ Cipher-Room/
 │   └── package.json
 │
 ├── server/
-│   ├── app/
 │   ├── api/
-│   ├── database/
 │   ├── models/
 │   ├── services/
-│   └── main.py
+│   ├── database/
+│   ├── main.py
+│   └── requirements.txt
 │
 ├── docs/
 ├── README.md
 ├── LICENSE
 ├── CONTRIBUTING.md
-└── SECURITY.md
+├── SECURITY.md
+└── CHANGELOG.md
 ```
 
 ---
 
-# ⚙️ Core Technologies
+# ⚡ Tech Highlights
 
 ### 🎨 Frontend
 
@@ -442,7 +447,7 @@ Cipher-Room/
 - Tailwind CSS
 - Three.js
 - React Three Fiber
-- GSAP
+- GSAP Animations
 
 ---
 
@@ -450,14 +455,16 @@ Cipher-Room/
 
 - FastAPI
 - Python
+- REST API
 
 ---
 
-### 🤖 AI Engine
+### 🤖 Artificial Intelligence
 
 - Google Gemini API
-- Dynamic Mission Generation
-- AI Hint System
+- AI Mission Generator
+- Smart Hint System
+- Dynamic Story Generation
 
 ---
 
@@ -466,17 +473,18 @@ Cipher-Room/
 - SQLite
 - Mission Storage
 - Player Progress
+- Puzzle Data
 
 ---
 
-### 🚀 Deployment
+### ☁️ Deployment
 
 - Vercel (Frontend)
 - Render (Backend)
 
 ---
 
-# 🔄 Project Workflow
+# 🔄 Application Workflow
 
 ```text
 Player
@@ -485,7 +493,7 @@ Player
 Login
    │
    ▼
-Frontend (React)
+React Frontend
    │
    ▼
 FastAPI Backend
@@ -495,177 +503,201 @@ FastAPI Backend
    └────────► Gemini AI
                   │
                   ▼
-       Generate Unique Mission
+        Generate New Mission
                   │
                   ▼
-          Return Mission Data
+         Return Mission Data
                   │
                   ▼
-             Player Starts Game
+         Player Starts Game
 ```
 
 ---
 
 <div align="center">
 
-## 🚀 Built with Modern Technologies
+## ⚙️ Powered By
 
-**React ⚛️ • FastAPI ⚡ • Gemini AI 🤖 • SQLite 🗄️ • Three.js 🌌**
+**⚛️ React • ⚡ FastAPI • 🤖 Gemini AI • 🗄️ SQLite • 🌌 Three.js**
 
 </div>
 
 ---
-# 🚀 Getting Started
+# 💻 Technology Stack
 
-Follow these steps to set up **Cipher Room** on your local machine.
+<div align="center">
 
----
+| Category | Technologies |
+|:---------|:-------------|
+| 🎨 Frontend | React • Vite • Tailwind CSS • Three.js • React Three Fiber • GSAP |
+| ⚙️ Backend | FastAPI • Python |
+| 🤖 AI | Google Gemini API |
+| 🗄️ Database | SQLite |
+| 🔐 Authentication | JWT *(Planned)* |
+| ☁️ Deployment | Vercel • Render |
+| 🛠️ Version Control | Git • GitHub |
 
-# 📋 Prerequisites
-
-Before you begin, make sure you have installed:
-
-- Node.js (Latest LTS Version)
-- Python 3.11+
-- Git
-- npm or yarn
-
----
-
-# 📥 Clone the Repository
-
-```bash
-git clone https://github.com/goyalparth61-netizen/Cipher-Room.git
-
-cd Cipher-Room
-```
+</div>
 
 ---
 
-# 📦 Install Frontend Dependencies
-
-```bash
-cd client
-
-npm install
-```
-
----
-
-# ⚙️ Install Backend Dependencies
-
-```bash
-cd ../server
-
-pip install -r requirements.txt
-```
-
----
-
-# 🔑 Environment Variables
-
-Create a **.env** file inside the **server** folder.
-
-```env
-GEMINI_API_KEY=YOUR_GEMINI_API_KEY
-
-SECRET_KEY=YOUR_SECRET_KEY
-
-DATABASE_URL=sqlite:///cipherroom.db
-```
-
----
-
-# ▶️ Run Backend
-
-```bash
-cd server
-
-uvicorn main:app --reload
-```
-
-Backend will start at:
+# 🏗️ System Architecture
 
 ```text
-http://127.0.0.1:8000
+                    ┌─────────────────────┐
+                    │       Player        │
+                    └─────────┬───────────┘
+                              │
+                              ▼
+                 ┌─────────────────────────┐
+                 │  React + Tailwind CSS   │
+                 └─────────┬───────────────┘
+                           │
+                      API Requests
+                           │
+                           ▼
+                 ┌─────────────────────────┐
+                 │     FastAPI Backend     │
+                 └─────────┬───────────────┘
+                           │
+          ┌────────────────┴────────────────┐
+          ▼                                 ▼
+ ┌────────────────────┐          ┌────────────────────┐
+ │   Gemini AI API    │          │     SQLite DB      │
+ └────────────────────┘          └────────────────────┘
+          │                                 │
+          └──────────────┬──────────────────┘
+                         ▼
+             AI Generated Cyber Missions
 ```
 
 ---
 
-# 💻 Run Frontend
-
-```bash
-cd client
-
-npm run dev
-```
-
-Frontend will start at:
+# 📂 Project Structure
 
 ```text
-http://localhost:5173
+Cipher-Room/
+│
+├── assets/
+│   ├── agents/
+│   │   ├── parth-agent.png
+│   │   └── archi-agent.png
+│   │
+│   ├── banner/
+│   │   └── banner.png
+│   │
+│   ├── logo/
+│   │   └── logo.png
+│   │
+│   ├── demo/
+│   │   └── gameplay.gif
+│   │
+│   └── screenshots/
+│
+├── client/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── server/
+│   ├── api/
+│   ├── models/
+│   ├── services/
+│   ├── database/
+│   ├── main.py
+│   └── requirements.txt
+│
+├── docs/
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── SECURITY.md
+└── CHANGELOG.md
 ```
 
 ---
 
-# 🎮 Demo
+# ⚡ Tech Highlights
+
+### 🎨 Frontend
+
+- React
+- Vite
+- Tailwind CSS
+- Three.js
+- React Three Fiber
+- GSAP Animations
+
+---
+
+### ⚙️ Backend
+
+- FastAPI
+- Python
+- REST API
+
+---
+
+### 🤖 Artificial Intelligence
+
+- Google Gemini API
+- AI Mission Generator
+- Smart Hint System
+- Dynamic Story Generation
+
+---
+
+### 🗄️ Database
+
+- SQLite
+- Mission Storage
+- Player Progress
+- Puzzle Data
+
+---
+
+### ☁️ Deployment
+
+- Vercel (Frontend)
+- Render (Backend)
+
+---
+
+# 🔄 Application Workflow
+
+```text
+Player
+   │
+   ▼
+Login
+   │
+   ▼
+React Frontend
+   │
+   ▼
+FastAPI Backend
+   │
+   ├────────► SQLite Database
+   │
+   └────────► Gemini AI
+                  │
+                  ▼
+        Generate New Mission
+                  │
+                  ▼
+         Return Mission Data
+                  │
+                  ▼
+         Player Starts Game
+```
+
+---
 
 <div align="center">
 
-<img src="assets/demo/gameplay.gif" width="90%" alt="Cipher Room Gameplay"/>
+## ⚙️ Powered By
 
-</div>
-
----
-
-# 📸 Screenshots
-
-<div align="center">
-
-| Home | Mission |
-|:----:|:-------:|
-| Coming Soon | Coming Soon |
-
-| Puzzle | Escape |
-|:------:|:------:|
-| Coming Soon | Coming Soon |
-
-</div>
-
----
-
-# 📈 Current Project Status
-
-| Module | Status |
-|:-------|:------:|
-| Landing Page | ✅ Completed |
-| AI Mission Generator | 🚧 In Progress |
-| Cyber Puzzles | 🚧 In Progress |
-| Hint System | 📝 Planned |
-| User Authentication | 📝 Planned |
-| Leaderboard | 📝 Planned |
-| Multiplayer Mode | 💡 Future Update |
-
----
-
-# 🌟 Future Enhancements
-
-- 🤖 Smarter AI-generated missions
-- 👥 Multiplayer co-op escape mode
-- 🏆 Global leaderboard
-- 🎖 Achievement & badge system
-- 🌐 Online mission sharing
-- 📱 Mobile responsive experience
-- 🧠 Adaptive puzzle difficulty
-- 🔐 Advanced cybersecurity scenarios
-
----
-
-<div align="center">
-
-## ⭐ If you like this project, don't forget to Star the Repository!
-
-**Every Star motivates us to build something even better. 🚀**
+**⚛️ React • ⚡ FastAPI • 🤖 Gemini AI • 🗄️ SQLite • 🌌 Three.js**
 
 </div>
 
@@ -676,7 +708,7 @@ http://localhost:5173
 
 | Version | Features | Status |
 |:-------:|:---------|:------:|
-| 🚀 v1.0 | Landing Page, AI Mission System | 🚧 In Progress |
+| 🚀 v1.0 | Landing Page & AI Mission System | 🚧 In Progress |
 | 🚀 v1.5 | Cyber Puzzle Engine | 📝 Planned |
 | 🚀 v2.0 | Multiplayer Escape Mode | 💡 Future |
 | 🚀 v2.5 | Leaderboard & Achievements | 💡 Future |
@@ -693,40 +725,12 @@ http://localhost:5173
 <table>
 <tr>
 
-<td align="center" width="50%">
-
-<img src="assets/agents/parth-agent.png" width="350"/>
-
-### 🟢 Agent Parth
-
-**Project Lead**
-
-🛡 Cyber Security Engineer
-
-⚙ Backend Developer
-
-🤖 AI Integration
-
-🚀 Deployment
-
+<td align="center">
+<img src="assets/agents/parth-agent.png" width="380" alt="Agent Parth"/>
 </td>
 
-<td align="center" width="50%">
-
-<img src="assets/agents/archi-agent.png" width="350"/>
-
-### 🟣 Agent Archi
-
-**AI/ML Engineer**
-
-🎨 Frontend Developer
-
-🧠 Gameplay Designer
-
-✨ UI / UX
-
-📚 Documentation
-
+<td align="center">
+<img src="assets/agents/archi-agent.png" width="380" alt="Agent Archi"/>
 </td>
 
 </tr>
@@ -738,17 +742,17 @@ http://localhost:5173
 
 # 🤝 Contributing
 
-Contributions are welcome!
+We welcome contributions from developers, cybersecurity enthusiasts, designers, and AI researchers.
 
-If you'd like to improve **Cipher Room**, feel free to:
+If you'd like to contribute:
 
-- ⭐ Star the repository
+- ⭐ Star this repository
 - 🍴 Fork the project
-- 🌱 Create a feature branch
+- 🌿 Create a new branch
 - 💻 Commit your changes
 - 🚀 Open a Pull Request
 
-Together, let's build the next generation of AI-powered cybersecurity games.
+Together, let's build the future of AI-powered cybersecurity gaming.
 
 ---
 
@@ -760,51 +764,26 @@ See the **LICENSE** file for more information.
 
 ---
 
-# 💚 Support the Project
-
-If you enjoyed this project:
-
-⭐ Star this repository
-
-🍴 Fork the repository
-
-📢 Share it with your friends
-
-💻 Contribute to development
-
-Every contribution makes Cipher Room stronger.
-
----
-
 <div align="center">
+
+<img src="assets/logo/logo.png" width="180" alt="Cipher Room Logo"/>
 
 # 🔐 Cipher Room
 
-<img src="assets/logo/logo.png" width="170"/>
-
-## Every Login. Every Mission. Every Cipher.
+### Every Login. Every Mission. Every Cipher.
 
 ### ⚡ Hack • Investigate • Escape ⚡
 
 <br>
 
-Made with ❤️ by
-
-## Parth Goyal × Archi Sharma
-
-**Cyber Security × Artificial Intelligence**
+⭐ **If you enjoyed this project, don't forget to Star the repository!**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=goyalparth61-netizen&style=for-the-badge&color=00ff99"/>
+Made with ❤️ using **React • FastAPI • Gemini AI • SQLite**
 
 <br><br>
-
-⭐ **If this project impressed you, consider giving it a Star!**
-
-<br>
 
 **One Mission. Two Minds. Infinite Possibilities.**
 
 </div>
----
